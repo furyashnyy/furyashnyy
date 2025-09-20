@@ -17,13 +17,8 @@ Welcome to my GitHub profile! Here, you'll discover a collection of my projects,
 
 ## **🔗 Connect With Me**
 
-<a href="https://github.com/Furyashnyy">
-  <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-pink?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors">
-</a>
-<br />
-
 <a href="https://www.youtube.com/@furyashnyy">
-  <img src="https://img.shields.io/youtube/channel/subscribers/@furyashnyy?label=Subscribe&logo=youtube&style=for-the-badge" alt="YouTube Channel">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCx2OpXtIN6CpjJh2YeqVEOA?label=Subscribe&logo=youtube&style=for-the-badge" alt="YouTube Channel">
 </a>
 <br />
 
