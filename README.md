@@ -23,7 +23,7 @@ Welcome to my GitHub profile! Here, you'll discover a collection of my projects,
 <br />
 
 <a href="https://www.youtube.com/@furyashnyy">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCVlqnigRMu-OkQ4Xf5YDrrA?label=Subscribe&logo=youtube&style=for-the-badge" alt="YouTube Channel">
+  <img src="https://img.shields.io/youtube/channel/subscribers/@furyashnyy?label=Subscribe&logo=youtube&style=for-the-badge" alt="YouTube Channel">
 </a>
 <br />
 
