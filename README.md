@@ -23,7 +23,7 @@ Welcome to my GitHub profile! Here, you'll discover a collection of my projects,
 <br />
 
 <a href="https://discord.gg/S86AtNGX9f">
-  <img src="https://img.shields.io/discord/812467944420409355?color=blueviolet&label=Discord&logo=discord&logoColor=white&style=for-the-badge" alt="Discord">
+  <img src="https://img.shields.io/discord/1409618044245905541?color=blueviolet&label=Discord&logo=discord&logoColor=white&style=for-the-badge" alt="Discord">
 </a>
 <br />
 
