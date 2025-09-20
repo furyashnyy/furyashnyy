@@ -17,23 +17,23 @@ Welcome to my GitHub profile! Here, you'll discover a collection of my projects,
 
 ## **🔗 Connect With Me**
 
-<a href="https://github.com/sponsors/Furyashnyy">
+<a href="https://github.com/Furyashnyy">
   <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-pink?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors">
 </a>
 <br />
 
-<a href="https://www.youtube.com/channel/UCVlqnigRMu-OkQ4Xf5YDrrA">
+<a href="https://www.youtube.com/@furyashnyy">
   <img src="https://img.shields.io/youtube/channel/subscribers/UCVlqnigRMu-OkQ4Xf5YDrrA?label=Subscribe&logo=youtube&style=for-the-badge" alt="YouTube Channel">
 </a>
 <br />
 
-<a href="https://discord.gg/GwJKw7KP9J">
+<a href="https://discord.gg/S86AtNGX9f">
   <img src="https://img.shields.io/discord/812467944420409355?color=blueviolet&label=Discord&logo=discord&logoColor=white&style=for-the-badge" alt="Discord">
 </a>
 <br />
 
-<a href="https://euphoriadevelopment.uk">
-  <img src="https://img.shields.io/website?down_color=Red&down_message=Offline&label=euphoriadevelopment.uk&style=for-the-badge&up_color=Green&up_message=Online&url=https%3A%2F%2Feuphoriadevelopment.uk" alt="Project Era">
+<a href="https://furry-dev.net/furyashnyy">
+  <img src="https://img.shields.io/website?down_color=Red&down_message=Offline&label=www.furry-dev.net&style=for-the-badge&up_color=Green&up_message=Online&url=https%3A%2F%2Feuphoriadevelopment.uk" alt="Project Era">
 </a>
 
 ---
