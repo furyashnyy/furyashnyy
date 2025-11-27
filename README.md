@@ -16,11 +16,11 @@
 name: Furyashnyy
 age: 15
 location: Москва, Россия
-education: Школа №1788 (старшая школа)
+education: Старшая школа
 interests:
   - Веб-разработка
   - Серверная инфраструктура
-  - Discord боты и интеграции
+  - Discord/Telegram боты и автоматизация задач
   - Создание сайтов
 currently_learning:
   - JavaScript / Node.js
@@ -60,11 +60,8 @@ currently_learning:
 | 🌐 Проект | 📝 Описание |
 |:---:|:---:|
 | [**furyashnyy.github.io**](https://github.com/furyashnyy/furyashnyy.github.io) | 🏠 Мой личный сайт |
-| [**Site-Octagon.ru**](https://github.com/furyashnyy/Site-Octagon.ru) | 🎮 Веб-сайт проекта |
-| [**Discord-IntegrationMy**](https://github.com/furyashnyy/Discord-IntegrationMy) | 🤖 Discord интеграция на JS |
-| [**Npmginx**](https://github.com/furyashnyy/Npmginx) | ⚙️ Скрипты для настройки Nginx + Certbot |
-| [**Hahie**](https://github.com/furyashnyy/Hahie) | ☁️ Cloudflare Reverse Proxy |
-| [**FGP**](https://github.com/furyashnyy/FGP) | 🎯 Веб-проект на HTML |
+| [**obscpsl.ru**](https://obscpsl.ru) | 🎯 Веб-приложение личного SCP:SL проекта написанного на Typescript |
+| Больше проектов | Будет совсем скоро |
 
 </div>
 
@@ -117,8 +114,8 @@ currently_learning:
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 &nbsp;
-<a href="https://furry-dev.net/furyashnyy">
-  <img src="https://img.shields.io/badge/Website-9745F5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+<a href="https://t.me/furyashnyy">
+  <img src="https://img.shields.io/badge/Telegram-9745F5?style=for-the-badge&logo=Telegram&logoColor=white" alt="Website"/>
 </a>
 
 </div>
