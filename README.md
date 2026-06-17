@@ -59,7 +59,7 @@ currently_learning:
 
 | 🌐 Проект | 📝 Описание |
 |:---:|:---:|
-| [**adm.arnos.dev**](https://adm.arnos.dev) | 🏠 Мой личный сайт |
+| [**info.arnos.dev**](https://info.arnos.dev) | 🏠 Мой личный сайт |
 | Больше проектов | Будет уже совсем-совсем скоро |
 
 </div>
