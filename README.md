@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Анимированное приветствие -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=9745F5&center=true&vCenter=true&random=false&width=600&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+Furyashnyy!+%F0%9F%91%8B;Web+Developer+%7C+15+%D0%BB%D0%B5%D1%82;%D0%A8%D0%BA%D0%BE%D0%BB%D0%B0+1788+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=9745F5&center=true&vCenter=true&random=false&width=600&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+Furyashnyy!+%F0%9F%91%8B;Developer+%7C+XX+%D0%BB%D0%B5%D1%82;%D0%A8%D0%BA%D0%BE%D0%BB%D0%B0+%F0%9F%8E%93" alt="Typing SVG" />
 
 <br/>
 
@@ -14,19 +14,18 @@
 
 ```yaml
 name: Furyashnyy
-age: 15
+age: XX
 location: Москва, Россия
-education: Старшая школа
+education: Колледж 
 interests:
   - Веб-разработка
+  - Разработка ПО
+  - Системное администрирование
   - Серверная инфраструктура
   - Discord/Telegram боты и автоматизация задач
   - Создание сайтов
 currently_learning:
-  - JavaScript / Node.js
-  - HTML / CSS
-  - Nginx & Server Administration
-  - Cloudflare & Reverse Proxy
+Idk
 ```
 
 ---
@@ -48,7 +47,8 @@ currently_learning:
 ![Discord](https://img.shields.io/badge/Discord%20Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+TypeScript 
+Go etc
 </div>
 
 ---
