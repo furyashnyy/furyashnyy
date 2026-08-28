@@ -1,107 +1,125 @@
 <div align="center">
 
-<!-- Анимированное приветствие -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=9745F5&center=true&vCenter=true&random=false&width=600&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+Furyashnyy!+%F0%9F%91%8B;Developer+%7C+XX+%D0%BB%D0%B5%D1%82;%D0%A8%D0%BA%D0%BE%D0%BB%D0%B0+%F0%9F%8E%93" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Furyashnyy&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=9745F5&center=true&vCenter=true&width=650&lines=Developer+%26+Student;TypeScript+%E2%80%A2+Go+%E2%80%A2+Web+%E2%80%A2+Backend;Building+things+for+the+internet" alt="Typing SVG" />
 
 <br/>
 
-<!-- Анимированная волна -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=furyashnyy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img src="https://img.shields.io/badge/Moscow-Russia-9745F5?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Web%20%26%20Software-9745F5?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Building%20something-9745F5?style=flat-square" />
 
 </div>
 
-## 👨‍💻 Обо мне
+---
+
+## 👋 About Me
 
 ```yaml
 name: Furyashnyy
-age: XX
-location: Москва, Россия
-education: Колледж 
+location: Moscow, Russia
+role:
+  - Developer
+  - Student
+
 interests:
-  - Веб-разработка
-  - Разработка ПО
-  - Системное администрирование
-  - Серверная инфраструктура
-  - Discord/Telegram боты и автоматизация задач
-  - Создание сайтов
-currently_learning:
-Idk
+  - Web & Software Development
+  - Backend & APIs
+  - Server Infrastructure
+  - System Administration
+  - Automation
+  - Discord / Telegram Bots
+
+current_focus:
+  - Building my own services and tools
+  - Backend development
+  - Server infrastructure
+  - Exploring new technologies
 ```
 
+I enjoy building services, applications, automation tools, and occasionally breaking things just to understand how to fix them afterward.
+
 ---
 
-## 🛠️ Технологии и инструменты
+## ⚡ Tech Stack
+
+### Languages
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
 
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+</div>
 
-![Discord](https://img.shields.io/badge/Discord%20Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-TypeScript 
-Go etc
+### Web & Backend
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge\&logo=redis\&logoColor=white)
+
+</div>
+
+### Infrastructure & Tools
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=cloudflare\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
 </div>
 
 ---
 
-## 🚀 Мои проекты
+## 🚀 Projects
 
 <div align="center">
 
-| 🌐 Проект | 📝 Описание |
-|:---:|:---:|
-| [**info.arnos.dev**](https://info.arnos.dev) | 🏠 Мой личный сайт |
-| Больше проектов | Будет уже совсем-совсем скоро |
+| Project                                                                      | Description                                  |
+| :--------------------------------------------------------------------------- | :------------------------------------------- |
+| 🌐 [**info.arnos.dev**](https://info.arnos.dev)                              | My personal website                          |
+| 🧪 [**GitHub Repositories**](https://github.com/Furyashnyy?tab=repositories) | Projects, experiments, tools, and other code |
 
 </div>
 
+> Some projects never become public. Others become public way too early.
+
 ---
 
-## 📊 GitHub Статистика
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Furyashnyy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Furyashnyy&theme=tokyonight&hide_border=true&background=0d1117" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Furyashnyy&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Furyashnyy&theme=tokyonight" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furyashnyy&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117" />
+<img width="60%" src="https://streak-stats.demolab.com?user=Furyashnyy&theme=tokyonight&hide_border=true&background=0D1117" />
+
+<br/>
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Furyashnyy&theme=tokyonight" />
 
 </div>
 
 ---
 
-## 🏆 GitHub трофеи
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Furyashnyy&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" />
-
-</div>
-
----
-
-## 📈 График активности
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Furyashnyy&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
-
-</div>
-
----
-
-## 🔗 Свяжись со мной
+## 📫 Contact Me
 
 <div align="center">
 
@@ -114,7 +132,11 @@ Go etc
 </a>
 &nbsp;
 <a href="https://t.me/furyashnyy">
-  <img src="https://img.shields.io/badge/Telegram-9745F5?style=for-the-badge&logo=Telegram&logoColor=white" alt="Website"/>
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+&nbsp;
+<a href="https://info.arnos.dev">
+  <img src="https://img.shields.io/badge/Website-9745F5?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website"/>
 </a>
 
 </div>
@@ -123,12 +145,12 @@ Go etc
 
 <div align="center">
 
-### 💫 Спасибо за визит!
+### Thanks for stopping by 👋
 
-<img src="https://komarev.com/ghpvc/?username=Furyashnyy&color=blueviolet&style=for-the-badge&label=ПРОСМОТРЫ+ПРОФИЛЯ" />
+<img src="https://komarev.com/ghpvc/?username=Furyashnyy&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer"/>
 
 </div>
