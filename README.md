@@ -109,10 +109,6 @@ I enjoy building services, applications, automation tools, and occasionally brea
 
 <br/>
 
-<img width="60%" src="https://streak-stats.demolab.com?user=Furyashnyy&theme=tokyonight&hide_border=true&background=0D1117" />
-
-<br/>
-
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Furyashnyy&theme=tokyonight" />
 
 </div>
